@@ -55,7 +55,7 @@ int main() {
         } if (choice == 4) {
             printf("Thank you for visiting Bus Bus Bank. Please come again!\n");
         }
-    }
+    } 
 
     return 0;
 }
