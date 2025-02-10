@@ -1,6 +1,6 @@
 # Simple-Bank-Management-System
 
-## 1. Description
+# 1. Description
 This is a simple banking system that runs on C coding language. It can perform simple tasks such as check balance, deposit money, withdraw money, and exit system. **The user's balance is automatically set to 1000 USD as a welcome bonus.**
 
 ## 1.1. What I Learned
@@ -19,6 +19,22 @@ From this project, I learned all the basics of coding in C programming language.
 - **Buffer Clean:** I learned how to clean the buffer after each scanf() input to avoid the code from printing garbage data stored in the buffer. 
 
 - **Printf():** I learned how to use printf() to make print out different lines of text in the terminal to make the user experience more enjoyable.
+
+# Features
+- The user's balance is set to 1000 USD as a welcome bonus
+
+- A user-friendly emnu with 4 different selections:
+  - 1. Check current balance
+  - 2. Deposit money
+  - 3. Withdraw money
+  - 4. Exit bank
+
+- Detect user input errors such as:
+  - Negative numbers for depositing and withdrawing money
+  - User's current balance is not enough to withdraw requested amount
+
+- Simple implementation
+- Ensures that user will deposit and withdraw valid amounts of money
 
 
 
