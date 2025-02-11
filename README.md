@@ -20,7 +20,6 @@ From this project, I learned all the basics of coding in C programming language.
 
 - **Printf():** I learned how to use printf() to make print out different lines of text in the terminal to make the user experience more enjoyable.
 
-# Features
 - The user's balance is set to 1000 USD as a welcome bonus
 
 - A user-friendly emnu with 4 different selections:
