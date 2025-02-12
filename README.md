@@ -55,7 +55,16 @@ When you first run the program, a welcome/main menu will show up, which will pro
 ![alt text](image.png)
 The user can enter a number as their selection. The number will map to a function. 
 
-### 3.1
+### 3.1. Checking the balance
+If the user wants to check their current balance, they can select 1, which will map to check their balance. This is what the menu for checking the balance looks like:
+
+![alt text](image-1.png)
+You can see that in the code, I selected 1. After selecting 1, the code will show that my current balance is 1000 dollars. After the code displays my current balance, it will loop back to show the main menu. 
+
+### 3.2. Depositing Money
+If the user wants to deposit some money into their account, the selection to do that is 2. This is what the deposit money menu looks like. 
+
+
 
 
 
