@@ -35,6 +35,30 @@ From this project, I learned all the basics of coding in C programming language.
 - Simple implementation
 - Ensures that user will deposit and withdraw valid amounts of money
 
+## 2. Features
+- Users balance set to 1000 USD by default as a welcome balance
+- There is a user friendly menu with 4 basic bank operations: 
+  - Check balance
+  - Deposit money
+  - Withdraw money
+  - Exit system
+- Error detection for user input errors:
+  - Detect if user input for deposit and withdraw money is negative or positive
+  - Detection for checking is withdrawal input is less than current balance
+  - Detection for invalid selections
+- Efficient implementation in C language
+
+## 3. Using the Banking System
+
+When you first run the program, a welcome/main menu will show up, which will prompt the user to make a selection. This menu looks like this: 
+
+![alt text](image.png)
+The user can enter a number as their selection. The number will map to a function. 
+
+### 3.1
+
+
+
 
 
 
