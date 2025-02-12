@@ -83,6 +83,11 @@ As you can see here, I selected 3 to withdraw money, and then entered 10 as the 
 
 ## 3.4. Exiting the System
 
+If the user wants to exit the system, they can do so by selecting 4, which maps to exit system. This is the exit system menu:
+
+![alt text](image-5.png)
+
+As you can see here, I entered 4 to exit the system. After I pressed enter, the code displays a goodbye message and then ends. You can see where the code ended by looking at the last line in the screenshot. 
 
 
   
