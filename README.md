@@ -68,17 +68,20 @@ If the user wants to deposit some money into their account, the selection to do 
 
 In this screenshot, you can see that when I select 2, the code will ask me how much I want to deposit. I wanted to deposit 5 dollars. Then, the program will add 5 dollars to my account, and then update my current balance.
 
-**If I want to check my balance to make sure that I got the extra 5 dollars, I can check by selecting 1 at the main menu again:**
+*__*If I want to check my balance to make sure that I got the extra 5 dollars, I can check by selecting 1 at the main menu again:*__*
 
 ![alt text](image-3.png)
 
+### 3.3. Withdrawing Money
+If the user wants to withdraw money out of their account, they can do so by selecting 3, which will map to withdrawing money. This is what the withdrawing money menu will look like: 
 
+*__*The code was reset so the current balance is $1000 instead of $1005.*__*
 
+![alt text](image-4.png)
 
+As you can see here, I selected 3 to withdraw money, and then entered 10 as the amount that I wanted to withdraw. After, it updated my balance to $990, which is confirmed when the main menu is shown again. 
 
-
-
-
+## 3.4. Exiting the System
 
 
 
