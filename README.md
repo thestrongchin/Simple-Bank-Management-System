@@ -64,6 +64,15 @@ You can see that in the code, I selected 1. After selecting 1, the code will sho
 ### 3.2. Depositing Money
 If the user wants to deposit some money into their account, the selection to do that is 2. This is what the deposit money menu looks like. 
 
+![alt text](image-2.png)
+
+In this screenshot, you can see that when I select 2, the code will ask me how much I want to deposit. I wanted to deposit 5 dollars. Then, the program will add 5 dollars to my account, and then update my current balance.
+
+**If I want to check my balance to make sure that I got the extra 5 dollars, I can check by selecting 1 at the main menu again:**
+
+![alt text](image-3.png)
+
+
 
 
 
