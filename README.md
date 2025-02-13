@@ -119,6 +119,21 @@ This is a simple float chart diagram which shows the entire logic of the code in
 
 ![alt text](image-10.png)
 
+## 4.2 Important Implementation Details
+
+These are some of the most important implementation used in this code: 
+
+- **Looping:** Looping the code is very important, because this allows the code to keep running after each user selection. In this simple bank system, the code will loop to the main menu after the user finishes making their selection. 
+
+- **User input collection:** This uses scanf() to read input from the user, and the scanf() will be used with if loop. In the future, buffer cleaning with getchar() could be used to prevent the code from printing garbage data. 
+
+- **Error detection:** Error detection in the code will ensure that the user inputs are all valid. This includes selections withing 1-4, deposit money and withdraw money inputs are not negative numbers, and when withdrawing money, the user's requested withdrawal amount is not more than their current balance.
+
+- **Exiting the bank:** When the user enters 4 as their selection, the code will display a goodbye message, and then terminate by using return 0;.
+  
+
+
+
 
 
 
