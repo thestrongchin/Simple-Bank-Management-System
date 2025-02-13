@@ -130,6 +130,12 @@ These are some of the most important implementation used in this code:
 - **Error detection:** Error detection in the code will ensure that the user inputs are all valid. This includes selections withing 1-4, deposit money and withdraw money inputs are not negative numbers, and when withdrawing money, the user's requested withdrawal amount is not more than their current balance.
 
 - **Exiting the bank:** When the user enters 4 as their selection, the code will display a goodbye message, and then terminate by using return 0;.
+
+# 5. The End
+
+This is the end of this README. I hope that you enjoyed this!
+
+
   
 
 
