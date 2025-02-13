@@ -135,7 +135,11 @@ These are some of the most important implementation used in this code:
 
 This is the end of this README. I hope that you enjoyed this!
 
+## 5.1. Contact 
+If you really enjoyed this README, or have comments, suggestions, or improvements that I can make, please feel free to reach out to me via email:
+riverchen0510@gmail.com
 
+*__*Please DO NOT spam my email, only a couple of messages please! Any spammers will be blocked instantly!*__*
   
 
 
