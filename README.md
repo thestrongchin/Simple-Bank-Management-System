@@ -89,5 +89,31 @@ If the user wants to exit the system, they can do so by selecting 4, which maps 
 
 As you can see here, I entered 4 to exit the system. After I pressed enter, the code displays a goodbye message and then ends. You can see where the code ended by looking at the last line in the screenshot. 
 
+## 3.5. Error Detection
+
+This program must have error detection to ensure that the user makes valid transactions. These are the different erros that the bank system can detect. 
+- Invalid user selection
+- Invalid withdrawal amounts (Amount < Balance, Negative Numbers)
+- Invalid depost amounts(Negative Numbers)
+   
+### This is example of error detection: 
+
+Example 1: Invalid Selection
+
+![alt text](image-6.png)
+You can see that when I enter 5 as my selection, it shows up as invalid becuase 4 is not a selection on the main menu. 
+
+Example 2: Depositing money error: 
+![alt text](image-8.png)
+You can see here that I entered a negative number as my selection. The code recognizes that the number is negative and displays an error message in response to it. 
+
+Example 3: Withdrawing money error: 
+![alt text](image-9.png)
+Here, I attemped to withdraw 1200 dollars out of my account when I only have 1000 dollars. The program recognizes that I don't have enough money to withdraw the requested amount, so it will display an error message. 
+
+
+
+
+
 
   
