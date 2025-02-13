@@ -111,6 +111,8 @@ Example 3: Withdrawing money error:
 ![alt text](image-9.png)
 Here, I attemped to withdraw 1200 dollars out of my account when I only have 1000 dollars. The program recognizes that I don't have enough money to withdraw the requested amount, so it will display an error message. 
 
+## 4. Implementation
+This part will show the implementation that was used in this program and display the logic and structure of all the code in a simple way.
 
 
 
